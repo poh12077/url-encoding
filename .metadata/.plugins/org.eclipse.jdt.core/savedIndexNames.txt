@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\young hwa park\Desktop\yhp\source\url encoding\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2879976378.index
+3462282630.index

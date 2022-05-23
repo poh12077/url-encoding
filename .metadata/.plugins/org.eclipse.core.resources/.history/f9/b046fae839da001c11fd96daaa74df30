@@ -1,0 +1,7 @@
+package url_encorder;
+
+public class encorder {
+	 public static void main(String[] args) {
+		    System.out.println("Hello World");
+		  }
+}
