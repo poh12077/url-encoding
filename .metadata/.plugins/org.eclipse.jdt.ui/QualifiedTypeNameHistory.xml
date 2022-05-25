@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="encoding.utilities"/>
+    <fullyQualifiedTypeName name="encoding.Utilities"/>
+    <fullyQualifiedTypeName name="encoding.SHA256"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Byte"/>
+</qualifiedTypeNameHistroy>
